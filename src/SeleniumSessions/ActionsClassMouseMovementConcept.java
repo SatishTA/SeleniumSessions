@@ -6,7 +6,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.interactions.Actions;
 
 import java.util.concurrent.TimeUnit;
-
+/**********if you want to simulate mouse action***************/
 public class ActionsClassMouseMovementConcept {
     public static void main(String[] args) {
         String expectedTite="Flight Bookings: Book Air Tickets, Flight Tickets Online | Jet Airways";
